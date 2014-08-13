@@ -3,5 +3,26 @@
   "version": "0.0.1",
   "dependencies": {
     "request": "^2.40.0"
-  }
+  },
+  "description": "ysubs =====",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexToudic/ysubs.git"
+  },
+  "keywords": [
+    "ysubs",
+    "yify",
+    "subtitles"
+  ],
+  "author": "Alex Toudic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexToudic/ysubs/issues"
+  },
+  "homepage": "https://github.com/AlexToudic/ysubs"
 }
